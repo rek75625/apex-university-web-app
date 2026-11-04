@@ -1,0 +1,6 @@
+{
+  "name": "Apex University Management & Web Portal",
+  "description": "Comprehensive university management system featuring public institutional website, student portal, faculty portal, administrative dashboard, and interactive database & API architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
